@@ -1,3 +1,3 @@
-# Model-Data-Stucture
+# Model-Data-Structure
 # InsuranceRecommendation
 # UsingLogisticRegression
